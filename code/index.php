@@ -251,6 +251,7 @@ require('../includes/_header.php');
       <li><a href="http://www.meetup.com/meetup_api/auth/#oauth2">Meetup</a></li>
       <li><a href="http://nationbuilder.com/api_quickstart">NationBuilder</a></li>
       <li><a href="http://www.salesforce.com/us/developer/docs/api_rest/Content/quickstart_oauth.htm">Salesforce</a></li>
+       <li><a href="https://www.salesmate.io/resources/email-signature-examples/">Salesmate</a></li>
       <li><a href="https://api.sharefile.com/rest/oauth2.aspx">ShareFile</a></li>
       <li><a href="https://api.slack.com/docs/oauth">Slack</a></li>
       <li><a href="http://developers.soundcloud.com/docs/api/reference">SoundCloud</a></li>
